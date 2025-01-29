@@ -57,12 +57,4 @@ python get_hand.py -t "Homework could have been easier" -s 2 -c 0,0,200 -b 0.85
 ```
 Now open `images/0.png`:
 
-![blue ink](https://i.imgur.com/IrGDNx3.png)
 
-
-More Info
----------
-
-[The paper](http://arxiv.org/abs/1308.0850)  
-[The man behind it all. Alex Graves](http://www.cs.toronto.edu/~graves/)  
-[What I am using](http://www.cs.toronto.edu/~graves/handwriting.html)
